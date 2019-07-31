@@ -1,0 +1,21 @@
+1.1 Background
+
+London is one of the biggest cities in the world with such a diverse set of boroughs, 32 in total. 
+The size of London means that it is very difficult for people to be able to discover all of these areas in detail. 
+Houses in certain areas of London have become mostly unaffordable to new buyers 
+and it is hard to find good alternatives to these areas.
+They may have seen a specific area that they like but it could be out of their price range, 
+therefore they may want to find another London borough which is similar to that borough but with lower house prices.
+
+This report aims to compare house prices in different London boroughs while grouping neighbourhoods
+so that house buyers can find similar areas to ones they liked but with cheaper house prices.
+This report will look at amenities in each borough, 
+the types that mostly occur and the frequency so that similar boroughs can be found.
+
+1.2 Data
+
+This report uses the co-ordinates for each London borough in order to locate them [1]. 
+
+The Foursquare API is then used to bring back the variety of venues in each borough and the frequency of them.
+
+A London government website provided the average house prices per borough which have been utilised for this project [2].
