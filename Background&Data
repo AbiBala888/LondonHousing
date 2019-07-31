@@ -19,3 +19,6 @@ This report uses the co-ordinates for each London borough in order to locate the
 The Foursquare API is then used to bring back the variety of venues in each borough and the frequency of them.
 
 A London government website provided the average house prices per borough which have been utilised for this project [2].
+
+[1] - https://en.wikipedia.org/wiki/List_of_London_boroughs
+[2] - https://data.london.gov.uk/average-house-prices/
